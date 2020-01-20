@@ -2,7 +2,7 @@
 """
 Created on Tue Jan  7 10:02:31 2020
 
-@author: almafazlagic
+@author: Alma Fazlagiz, Simone von Mehren, Natasha Norsker
 """
 
 import pandas as pd
